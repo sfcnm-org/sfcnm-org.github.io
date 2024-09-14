@@ -1,2 +1,1 @@
-# sfcnm-org.github.io
-Sport Flying Club of New Mexico website
+Website for the Sport Flying Club of New Mexico at <https://www.sfcnm.org>.
